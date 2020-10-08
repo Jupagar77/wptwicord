@@ -1,0 +1,18 @@
+[
+  {
+    "command": "hermes:ayuda",
+    "description": "Ver comandos de Hermes."
+  },
+  {
+    "command": "hermes:directorio",
+    "description": "Ver lista de contactos."
+  },
+  {
+    "command": "hermes:agregar 'CONTACTO' 'NÚMERO'",
+    "description": "Agregar nuevo contacto a lista de contactos."
+  },
+  {
+    "command": "hermes:enviar 'ID' 'MENSAJE'",
+    "description": "Enviar mensaje de Whatsapp a contacto."
+  }
+]
