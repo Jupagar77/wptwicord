@@ -2,4 +2,5 @@
   "token": "DISCORD BOT TOKEN",
   "twilio_sid": "TWILIO LIVE SID",
   "twilio_token": "TWILIO LIVE TOKEN"
+  "twilio_whatsapp": "TWILIO WHATSAPP NUMBER"
 }

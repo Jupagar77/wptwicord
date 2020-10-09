@@ -2,7 +2,7 @@ const config = require("./auth.json");
 const discord = require("discord.js");
 const client = new discord.Client();
 const prefix = "hermes:";
-const from = 'whatsapp:+14155238886';
+const from = config.twilio_whatsapp;
 const twilio = require('twilio')(config.twilio_sid, config.twilio_token);
 const fs = require('fs');
 
